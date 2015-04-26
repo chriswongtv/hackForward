@@ -1,6 +1,11 @@
 from flask import Flask, send_file, send_from_directory, request, g
 from secure_random import base64
+import pitch; Pitch = pitch.Pitch
+from crossdomain import *
+
 app = Flask(__name__, static_folder='../ui/www', static_url_path='')
+app.config['SQLAlCHEMY_DATABASE_URI'] = 'postgresql://postgres@localhost/hackforward'
+pitch.init_db(app)
 
 # deferred callbacks
 def after_this_request(f):
@@ -37,10 +42,41 @@ def send_ui(path):
 	print(path)
 	return send_from_directory('../ui/www', path)
 
-@app.route("/api/pitches", methods=['GET'])
+@app.route("/api/pitches", methods=['GET', 'POST'])
+@crossdomain(origin="*")
 def pitches():
-	print("pitches")
-	return g.user
+	if request.method == 'GET':
+		return """{
+			pitches: [
+				{
+					id: 1,
+					title: "asdfasdf",
+					summary: "asdfasdfasdfasdfaslkfj;lasdjfjlkasjdfl;jasdflkjhjwqpiuefhpqwcbun",
+					email: "asdf@asdf.com"
+				},{
+					id: 2,
+					title: "jpwewrmcq",
+					summary: "pqnwucrw",
+					email: "qwer@qwer.com"
+				}
+			]
+		}"""
+	elif request.method == 'POST':
+		# create post
+		# redirect to new post
+		return "success"
+
+@app.route("/api/pitches/<int:id>", methods=['GET'])
+@crossdomain(origin="*")
+def pitch(id):
+	return """{
+		pitch: {
+			id: 1,
+			title: "asdfasdf",
+			summary: "asdfasdfasdfasdfaslkfj;lasdjfjlkasjdfl;jasdflkjhjwqpiuefhpqwcbun",
+			email: "asdf@asdf.com"
+		}	
+	}"""
 
 if __name__ == '__main__':
 	app.run(host='0.0.0.0', debug=True)
