@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cea2db04-e584-4883-ac5d-be020ccaae6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templates/pitchItem.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templates/presentation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/app.js" afterPath="$PROJECT_DIR$/src/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/app.less" afterPath="$PROJECT_DIR$/src/less/app.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/app.min.css" afterPath="$PROJECT_DIR$/www/css/app.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.min.js.map" afterPath="$PROJECT_DIR$/www/js/app.min.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.min.js" afterPath="$PROJECT_DIR$/www/js/app.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/hackathons.html" afterPath="$PROJECT_DIR$/src/templates/hackathons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/main_controller.js" afterPath="$PROJECT_DIR$/src/js/controllers/main_controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/pitchDetail.html" afterPath="$PROJECT_DIR$/src/templates/pitchDetail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/pitches.html" afterPath="$PROJECT_DIR$/src/templates/pitches.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ui.iws" />
@@ -38,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-13.212121">
-              <caret line="48" column="16" selection-start-line="42" selection-start-column="30" selection-end-line="48" selection-end-column="16" />
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -48,57 +41,17 @@
         <entry file="file://$PROJECT_DIR$/src/js/controllers/main_controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pitchDetail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/pitchDetail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.6551725">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pitchItem.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/pitchItem.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.1818182">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pitches.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/templates/pitches.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2877698">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hackathons.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/hackathons.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.3636365">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.18834081">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -107,28 +60,8 @@
       <file leaf-file-name="app.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/less/app.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.793103">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="presentation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/presentation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.363636">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="live.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/live.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.72727275">
-              <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -148,13 +81,13 @@
         <option value="$PROJECT_DIR$/src/templates/hackathon.html" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/src/less/app.less" />
-        <option value="$PROJECT_DIR$/src/js/app.js" />
         <option value="$PROJECT_DIR$/src/templates/pitchDetail.html" />
         <option value="$PROJECT_DIR$/src/templates/pitchItem.html" />
         <option value="$PROJECT_DIR$/src/templates/presentation.html" />
         <option value="$PROJECT_DIR$/src/templates/hackathons.html" />
         <option value="$PROJECT_DIR$/src/js/controllers/main_controller.js" />
         <option value="$PROJECT_DIR$/src/templates/pitches.html" />
+        <option value="$PROJECT_DIR$/src/js/app.js" />
       </list>
     </option>
   </component>
@@ -358,6 +291,1236 @@
       <recent name="C:\Users\Marius\Hackathon\hackForward\ui\src\templates" />
     </key>
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/html/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/js/app.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/js/controllers/main_controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/less/app.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/templates/home.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/templates/sidebar.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/css/app.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/js/app.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/js/app.min.js.map</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/.bin/gulp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/bin/gulp.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/completion/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/completion/bash</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/completion/fish</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/completion/powershell</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/completion/zsh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/lib/completion.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/lib/taskTree.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/.bin/semver</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/examples/beep.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/examples/multi_line.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/readme.markdown</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/test/beep.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/test/multi_line.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/archy/test/non_unicode.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/.bin/has-ansi</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/.bin/strip-ansi</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/.bin/supports-color</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/has-ansi/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/has-ansi/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/has-ansi/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/has-ansi/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/supports-color/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/supports-color/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/supports-color/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/node_modules/supports-color/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/chalk/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/deprecated/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/deprecated/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/deprecated/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/deprecated/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/deprecated/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/deprecated/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/deprecated/test/field.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/deprecated/test/method.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/PluginError.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/buffer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/combine.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/env.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/isBuffer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/isNull.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/isStream.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/log.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/noop.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/lib/template.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/.bin/dateformat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/array-differ/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/array-differ/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/array-differ/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/array-uniq/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/array-uniq/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/array-uniq/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/beeper/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/beeper/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/beeper/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/.bin/has-ansi</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/.bin/strip-ansi</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/.bin/supports-color</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/escape-string-regexp/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/escape-string-regexp/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/escape-string-regexp/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/supports-color/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/supports-color/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/supports-color/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/node_modules/supports-color/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/chalk/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/Readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/bin/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/lib/dateformat.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/.bin/indent-string</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/camelcase/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/camelcase/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/camelcase/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/map-obj/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/map-obj/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/map-obj/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/node_modules/.bin/repeating</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/node_modules/repeating/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/node_modules/repeating/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/node_modules/repeating/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/node_modules/repeating/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/test/test_dayofweek.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/test/test_formats.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/test/test_isoutcdatetime.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/test/weekofyear/test_weekofyear.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/test/weekofyear/test_weekofyear.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reescape/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reescape/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reescape/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reescape/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reevaluate/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reevaluate/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reevaluate/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reevaluate/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reinterpolate/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reinterpolate/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reinterpolate/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash._reinterpolate/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basecopy/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basecopy/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basecopy/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basecopy/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basetostring/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basetostring/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basetostring/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basetostring/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.isnative/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.isnative/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.isnative/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.isnative/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/node_modules/lodash.isarguments/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/node_modules/lodash.isarguments/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/node_modules/lodash.isarguments/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/node_modules/lodash.isarguments/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/node_modules/lodash.isarray/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/node_modules/lodash.isarray/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/node_modules/lodash.isarray/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/node_modules/lodash.isarray/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.keys/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/History.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/Makefile</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/Readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/LICENSE.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/example.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/duplex.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/float.patch</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_duplex.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_passthrough.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_readable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_transform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/lib/_stream_writable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/core-util-is/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/core-util-is/float.patch</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/core-util-is/lib/util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/core-util-is/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/core-util-is/util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/inherits/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/inherits/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/inherits/inherits.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/inherits/inherits_browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/inherits/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/inherits/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/build/build.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/component.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/passthrough.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/readable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/transform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/writable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/test/tests.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/test/multipipe.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/object-assign/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/object-assign/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/object-assign/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/replace-ext/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/replace-ext/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/replace-ext/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/replace-ext/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/replace-ext/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/replace-ext/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/replace-ext/test/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/duplex.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_duplex.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_readable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_transform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/float.patch</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/lib/util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/inherits/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/inherits/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/inherits/inherits.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/inherits/inherits_browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/inherits/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/inherits/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/isarray/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/isarray/build/build.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/isarray/component.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/isarray/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/isarray/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/passthrough.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/readable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/transform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/writable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/.jshintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/LICENCE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/Makefile</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/immutable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/mutable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/through2/through2.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/lib/cloneBuffer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/lib/inspectStream.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/lib/isBuffer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/lib/isNull.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/lib/isStream.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone-stats/LICENSE.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone-stats/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone-stats/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone-stats/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone-stats/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone/clone.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/node_modules/clone/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/node_modules/vinyl/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/gulp-util/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/interpret/CHANGELOG</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/interpret/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/interpret/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/interpret/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/interpret/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/.jshintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/CHANGELOG</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/UPGRADING.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/appveyor.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/lib/build_config_name.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/lib/file_search.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/lib/find_config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/lib/find_cwd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/lib/parse_options.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/lib/silent_require.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/.jscs.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/component.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/extend/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/LICENSE-MIT</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/lib/findup-sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/common.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/glob.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/.eslintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/inflight.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inflight/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inherits/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inherits/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inherits/inherits.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inherits/inherits_browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inherits/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/inherits/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/minimatch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/nested.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/order.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/pad.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/node_modules/wrappy/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/node_modules/wrappy/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/once.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/node_modules/once/test/once.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/lib/reorder.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/lib/respawn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/test/bin/exit_code.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/test/bin/respawner.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/test/bin/signal.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/test/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/example/async.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/example/sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/async.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/caller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/core.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/node-modules-paths.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/readme.markdown</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/dotdot.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/dotdot/abc/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/dotdot/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/faulty_basedir.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/filter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/filter_sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/mock.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/mock_sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/module_dir.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/module_dir/xmodules/aaa/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/module_dir/ymodules/aaa/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/module_dir/zmodules/bbb/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/module_dir/zmodules/bbb/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/node_path.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/node_path/x/aaa/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/node_path/x/ccc/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/node_path/y/bbb/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/node_path/y/ccc/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/nonstring.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/pathfilter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/pathfilter/deep_ref/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/alt.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/deeper/ref.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/ref.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/precedence.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/precedence/aaa.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/precedence/aaa/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/precedence/aaa/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/precedence/bbb.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/precedence/bbb/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/bar/node_modules/foo/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/baz/doom.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/baz/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/baz/quux.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/biz/node_modules/garply/lib/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/biz/node_modules/garply/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/biz/node_modules/grux/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/biz/node_modules/tiv/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/cup.coffee</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/foo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/incorrect_main/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/incorrect_main/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/mug.coffee</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/mug.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/other_path/lib/other-lib.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/other_path/root.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/punycode/node_modules/punycode/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/quux/foo/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/without_basedir/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/without_basedir/node_modules/mymodule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver_sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/subdirs.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/subdirs/node_modules/a/b/c/x.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/subdirs/node_modules/a/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/liftoff/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/example/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/readme.markdown</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/all_bool.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/bool.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/dash.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/default_bool.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/dotted.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/long.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/num.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/parse_modified.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/short.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/stop_early.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/unknown.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/minimist/test/whitespace.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/lib/runTask.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/test/basic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/wrappy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/once.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/test/once.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/sequencify/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/sequencify/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/sequencify/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/sequencify/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/sequencify/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/sequencify/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/stream-consume/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/stream-consume/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/stream-consume/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/stream-consume/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/node_modules/stream-consume/test/tests.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/orchestrator/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/pretty-hrtime/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/pretty-hrtime/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/pretty-hrtime/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/pretty-hrtime/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/pretty-hrtime/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/Makefile</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/bin/semver</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/foot.js.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/head.js.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/semver.browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/semver.browser.js.gz</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/semver.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/semver.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/semver.min.js.gz</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/test/amd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/test/big-numbers.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/test/clean.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/test/gtr.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/test/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/test/ltr.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/test/major-minor-patch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/semver/test/no-module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/tildify/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/tildify/node_modules/.bin/user-home</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/tildify/node_modules/user-home/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/tildify/node_modules/user-home/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/tildify/node_modules/user-home/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/tildify/node_modules/user-home/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/tildify/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/tildify/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/node_modules/.bin/user-home</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/node_modules/user-home/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/node_modules/user-home/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/node_modules/user-home/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/node_modules/user-home/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/v8flags/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/dest/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/dest/writeContents/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/dest/writeContents/writeBuffer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/dest/writeContents/writeDir.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/dest/writeContents/writeStream.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/src/getContents/bufferFile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/src/getContents/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/src/getContents/readDir.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/src/getContents/streamFile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/src/getStats.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/lib/src/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/.bin/mkdirp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/.bin/strip-bom</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/node_modules/clone/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/node_modules/clone/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/node_modules/clone/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/node_modules/clone/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/node_modules/clone/clone.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/node_modules/clone/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/node_modules/clone/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/defaults/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/common.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/glob.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/.eslintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/inflight.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inflight/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inherits/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inherits/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inherits/inherits.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inherits/inherits_browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inherits/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/inherits/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/node_modules/wrappy/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/node_modules/wrappy/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/once.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/node_modules/once/test/once.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob/sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/last.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/minimatch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/example.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/nested.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/order.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/pad.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/test/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/test/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/LICENSE-MIT</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/lib/gaze.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/lib/helper.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/.jshintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/Gruntfile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/LICENSE-MIT</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/lib/globule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/examples/g.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/examples/usr-local.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/glob.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/graceful-fs/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/graceful-fs/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/graceful-fs/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/graceful-fs/graceful-fs.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/graceful-fs/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/graceful-fs/test/open.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/graceful-fs/test/ulimit.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/inherits.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/00-setup.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/bash-comparison.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/bash-results.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/cwd-test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/mark.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/nocase-nomagic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/pause-resume.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/root-nomount.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/root.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/test/zz-cleanup.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.compat.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.compat.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.underscore.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.underscore.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/minimatch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/CONTRIBUTORS</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/bar.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/foo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/lib/lru-cache.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/test/basic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/test/foreach.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/bench.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/sigmund.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/test/basic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/basic.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/brace-expand.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/caching.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/defaults.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/extglob-ending-with-state-char.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/fixtures/expand/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/fixtures/expand/css/baz.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/fixtures/expand/css/qux.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/fixtures/expand/deep/deep.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/fixtures/expand/deep/deeper/deeper.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/fixtures/expand/deep/deeper/deepest/deepest.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/fixtures/expand/js/bar.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/fixtures/expand/js/foo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/test/globule_test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/test/fixtures/test.coffee</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/test/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/fs.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/graceful-fs.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/polyfills.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/test/max-open.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/test/open.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/test/readdir-sort.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/test/write-then-read.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/bin/cmd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/bin/usage.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/examples/pow.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/example/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/readme.markdown</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/dash.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/default_bool.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/dotted.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/long.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/parse_modified.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/short.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/whitespace.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/readme.markdown</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/chmod.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/clobber.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/mkdirp.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/opts_fs.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/opts_fs_sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/perm.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/perm_sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/race.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/rel.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/return.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/return_sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/root.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/umask.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/test/umask_sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/cli.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/first-chunk-stream/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/first-chunk-stream/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/first-chunk-stream/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/ansi.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/is-utf8.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/utf8.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/strip-bom/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/duplex.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/lib/_stream_duplex.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/lib/_stream_readable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/lib/_stream_transform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/float.patch</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/lib/util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/inherits/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/inherits/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/inherits/inherits.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/inherits/inherits_browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/inherits/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/inherits/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/isarray/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/isarray/build/build.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/isarray/component.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/isarray/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/isarray/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/node_modules/string_decoder/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/passthrough.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/readable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/transform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/readable-stream/writable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/.jshintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/LICENCE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/Makefile</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/immutable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/mutable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/through2.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/lib/cloneBuffer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/lib/inspectStream.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/lib/isBuffer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/lib/isNull.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/lib/isStream.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/LICENSE.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/clone.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/node_modules/vinyl-fs/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../node_modules/gulp/package.json</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/Gruntfile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/bower.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/accordion.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/carousel.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/demo.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/demo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/drag.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/dropdown.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/favicon.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/forms.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/home.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/modal1.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/modal2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/overlay.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/scroll.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/sidebar.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/sidebarRight.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/tabs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/demo/toggle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/css/mobile-angular-ui-base.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/css/mobile-angular-ui-base.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/css/mobile-angular-ui-desktop.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/css/mobile-angular-ui-desktop.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/css/mobile-angular-ui-hover.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/css/mobile-angular-ui-hover.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/css/mobile-angular-ui-migrate.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/css/mobile-angular-ui-migrate.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/fonts/FontAwesome.otf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/fonts/fontawesome-webfont.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/fonts/fontawesome-webfont.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/fonts/fontawesome-webfont.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/fonts/fontawesome-webfont.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.components.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.components.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.core.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.gestures.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.gestures.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.migrate.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.migrate.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/dist/js/mobile-angular-ui.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/components/modals.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/components/navbars.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/components/scrollable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/components/sidebars.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/components/switch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/core/activeLinks.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/core/capture.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/core/fastclick.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/core/outerClick.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/core/sharedState.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/gestures/drag.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/gestures/swipe.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/gestures/transform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/migrate/carousel.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/migrate/disabled.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/migrate/forms.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/migrate/namespaceAliases.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/migrate/overlay.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/migrate/panels.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/migrate/switch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/migrate/toggle.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/mobile-angular-ui.components.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/mobile-angular-ui.core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/mobile-angular-ui.gestures.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/mobile-angular-ui.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/js/mobile-angular-ui.migrate.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/app.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/buttons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/carousel.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/dropdown.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/forms.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/globals.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/justified.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/layout.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/list-groups.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/modal.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/navbars.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/normalize.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/panel.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/scrollable.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/sections.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/sidebar.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/switch.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/lib/validations.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/migrate.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/migrate/overlay.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/mobile-angular-ui-desktop.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/mobile-angular-ui.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/sm-grid.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/src/less/variables.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/tasks/grunt-smq.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/tasks/grunt-split-hover.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/tasks/release.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/components/switch.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/components/switchTest.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/core/capture.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/core/captureTest.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/core/scrollable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/core/scrollableTest.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/core/sharedState.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/core/sharedStateDirectives.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/core/sharedStateTests.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/gestures/swipe.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/gestures/swipeTest.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/gestures/switchSwipe.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/gestures/switchSwipeTest.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/helpers.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/accordion.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/carousel.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/demo.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/demo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/favicon.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/forms.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/home.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/overlay.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/scroll.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/sidebar.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/sidebarRight.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/tabs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mobile-angular-ui-1.2.0-beta.11/test/migrate/toggle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/templates/hackathons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/templates/live.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/templates/pitchDetail.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/templates/pitchItem.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/templates/pitches.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/templates/presentation.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
@@ -420,7 +1583,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -475,22 +1638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/pitchDetail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/pitches.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -499,26 +1646,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/hackathons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/less/app.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/live.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -554,58 +1685,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/live.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.72727275">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/presentation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.363636">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.212121">
-          <caret line="48" column="16" selection-start-line="42" selection-start-column="30" selection-end-line="48" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/hackathons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.3636365">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/pitchDetail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6551725">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/pitchItem.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1818182">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/less/app.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.793103">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -613,23 +1704,15 @@
     <entry file="file://$PROJECT_DIR$/src/js/controllers/main_controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/pitches.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2877698">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.18834081">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
           <folding />
         </state>
       </provider>
