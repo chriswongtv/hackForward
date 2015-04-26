@@ -3,11 +3,11 @@ angular.module('HackForward.controllers.Main', [])
 .controller('MainController', function($scope, $http){
 
         $scope.pitches = [
-            {name:'BeeOnDemand',cat:'Social',desc:'Need a worker? Find a worker(bee) instantly, anywhere.',goal:'Long-term'},
-            {name:'FishHog',cat:'Fun Ideas',desc:'Race to the target',goal:'Just for fun'},
-            {name:'Hack Forward',cat:'Innovation',desc:'Improving Hackathons for people who want to start something Mo...',goal:'Win prizes'},
-            {name:'Conmigo',cat:'Social',desc:'Find people to run or bike with',goal:'Long-term'},
-            {name:'Instant Poker',cat:'Game',desc:'Multiplayer mobile poker game. Go all-in or fold.',goal:'Experience'},
+            {name:'RoboCoding',cat:'Hardware',desc:'A online lab where everyone can learn to program while programming the robots in the laboratory. ',goal:'Long-term',vote:'13'},
+            {name:'6Facts',cat:'Education',desc:'Crowdsource physical world challenges',goal:'Just for fun',vote:'11'},
+            {name:'HackForward',cat:'Innovation',desc:'Improving Hackathons for people who want to start something Monday',goal:'Win prizes',vote:'10'},
+            {name:'CINCH',cat:'Social',desc:'Safe, Easy and Free Real Estate Transactions',goal:'Long-term',vote:'8'},
+            {name:'MYNZ',cat:'Game',desc:'Augmented-Reality Apple Watch Game',goal:'Just for fun',vote:'7'},
         ];
 
 

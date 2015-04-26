@@ -7,14 +7,18 @@
 
         <div  ng-repeat="x in pitches" class="panel panel-default">
           <a href="" ui-turn-on="pitchDetail">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              {{ x.name }}
-            </h4>
-            <div class="panel-body">
-              <p>Category: {{ x.cat }} </p>
+            <div class="pitches-upvote">
+              <h2> +{{ x.vote }} </h2>
             </div>
-          </div></a>
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                {{ x.name }}
+              </h4>
+              <div class="panel-body">
+                <p>Category: {{ x.cat }} </p>
+              </div>
+            </div>
+          </a>
         </div>
 
       </div>
@@ -26,14 +30,23 @@
               <div class="modal-header">
                 <button class="close"
                         ui-turn-off="pitchDetail">&times;</button>
-                <h4 class="modal-title"> {{ x.name }} </h4>
+                <h4 class="modal-title">HackForward</h4>
               </div>
               <div class="modal-body">
-                <p> {{ x.desc }} </p>
+                <p>A set of tools for social entrepreneurs and bootstrappers to find each other and explore working together at Hackathons (and later online). Key pain points: improving team formation at pitch [this hackathon's goal], improving networking after presentation, keeping ideas alive across hackathons.</p>
+              </div>
+              <div class="modal-body">
+                <p><b>Category:</b> Innovation</p>
+                <p><b>Goal:</b> Prizes</p>
+                <p><b>Pitcher:</b> Stephen Cataldo</p>
+                <p><b>Looking for:</b> Backend web developer</p>
               </div>
               <div class="modal-footer">
-                <button ui-turn-off="pitchDetail" class="btn btn-primary">Good idea!</button>
-                <button ui-turn-off="pitchDetail" class="btn btn-primary">Contact the pitcher</button>
+                <div id="live-upvote" style="display:none;">
+                  +4
+                </div>
+                  <button onclick="showUpvote()" class="btn btn-primary">Good idea!</button>
+                <a href="tel:5105206175"><button class="btn btn-primary">Contact the pitcher</button></a>
               </div>
             </div>
           </div>
@@ -42,3 +55,9 @@
     </div>
   </div>
 </section>
+
+<script type='text/javascript'>
+  function showUpvote() {
+     document.getElementById('live-upvote').style.display = "block";
+  }
+</script>
