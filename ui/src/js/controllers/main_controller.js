@@ -30,7 +30,7 @@ angular.module('HackForward.controllers.Main', [])
 
         $scope.tiles = [
             {name:'All Pitches', url:'#pitches'},
-            {name:'My Pitch', url:'#'},
+            {name:'My Pitch', url:'#addpitch'},
             {name:'Presentation', url:'#presentation'},
         ];
 

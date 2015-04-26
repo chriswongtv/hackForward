@@ -1,14 +1,17 @@
 <section class="section container-fluid">
-  <h1 class="page-header">AngelHack SF</h1>
+  <div class="scrollable">
+    <div class="scrollable-content section">
+      <legend>AngelHack SF</legend>
 
-  <div  ng-repeat="x in tiles">
-    <a href="{{x.url}}"><div class="tile">
-      <div class="tile-title">
-        <h4 class="panel-title">
-          {{ x.name }}
-        </h4>
+      <div  ng-repeat="x in tiles">
+        <a href="{{x.url}}"><div class="tile">
+          <div class="tile-title">
+            <h4 class="panel-title">
+              {{ x.name }}
+            </h4>
+          </div>
+        </div></a>
       </div>
-    </div></a>
+    </div>
   </div>
-
 </section>
