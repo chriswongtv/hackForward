@@ -1,0 +1,55 @@
+<section class="section container-fluid">
+  <div class="scrollable">
+    <div class="scrollable-content section">
+
+      <form role="form" ng-submit='addPitch()'>
+        <fieldset>
+          <legend>Pitch Your Idea!</legend>
+            <div class="form-group has-success has-feedback">
+              <label>Name of Your Amazing Idea</label>
+              <input type="text"
+                     ng-model="text"
+                     class="form-control">
+            </div>
+
+            <div class="form-group">
+              <label>...and its category</label><br>
+              <div class="btn-group" role="group">
+                 <button type="button" ng-model="cat" class="btn btn-default">Social</button>
+                 <button type="button" ng-model="cat" class="btn btn-default">Innovation</button>
+                 <button type="button" ng-model="cat" class="btn btn-default">Fun Ideas</button>
+                 <button type="button" ng-model="cat" class="btn btn-default">Game</button>
+              </div>
+            </div>
+
+              <div class="form-group">
+                <label>Tell us about it!</label>
+                <textarea rows="4"
+                       ng-model="textbox"
+                       class="form-control"></textarea>
+              </div>
+
+              <div class="form-group">
+                <label>What would you like to achieve?</label><br>
+                <div class="btn-group" role="group">
+                   <button type="button" ng-model="goal" class="btn btn-default">Win prizes!</button>
+                   <button type="button" ng-model="goal" class="btn btn-default">Experience</button>
+                   <button type="button" ng-model="goal" class="btn btn-default">Long-term</button>
+                   <button type="button" ng-model="goal" class="btn btn-default">Just for fun!</button>
+                </div>
+              </div>
+
+        </fieldset>
+        <hr>
+
+        <button class="btn btn-primary btn-block">
+          Add
+        </button>
+
+        <div ui-content-for="navbarAction">
+          <a class='btn' ng-click='addPitch()'>Add</a>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
