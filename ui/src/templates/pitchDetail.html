@@ -1,6 +1,24 @@
 <section class="section container-fluid">
   <h2>See pitch details here</h2>
 
+  <div class="modal modal-overlay" ui-if='pitchDetail' ui-state='pitchDetail'>
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button class="close"
+                  ui-turn-off="pitchDetail">&times;</button>
+          <h4 class="modal-title">Modal title</h4>
+        </div>
+        <div class="modal-body">
+          <p>{{lorem}}</p>
+        </div>
+        <div class="modal-footer">
+          <button ui-turn-off="pitchDetail" class="btn btn-default">Close</button>
+          <button ui-turn-off="pitchDetail" class="btn btn-primary">Save changes</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
 </section>

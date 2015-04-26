@@ -7,10 +7,40 @@
 /* CSS used here will be applied after bootstrap.css */
 .row > div {border:10px solid white}
 .B {background:blue; height:200px}
-.tile {
-  display: flex;
-  margin: 5px;
-  flex-grow: 1;
-  background:green; height:100px
-}
 .O {background:orange; height:100px}
+
+.tile {
+  width: 45%;
+  height: 120px;
+  margin: 0 10px 10px 0;
+  position: relative;
+  overflow: hidden;
+  display: block;
+  float: left;
+  margin: 0 10px 10px 0;
+  padding: 0;
+  cursor: pointer;
+  background-color: #34495e;
+  box-shadow: inset 0px 0px 1px #FFFFCC;
+}
+
+.tile-title {
+  position: absolute;
+}
+
+.tile h4 {
+  color: white;
+}
+
+.panel-group .panel {
+  margin-bottom: 20px;
+}
+
+.panel-title {
+  margin-top: 10px;
+}
+
+.panel-body {
+  padding: 0;
+  margin-top:10px;
+}

@@ -1,3 +1,14 @@
 <section class="section container-fluid">
-  <h1 class="page-header">Wellcome to HackForward</h1>  
+  <h1 class="page-header">AngelHack SF</h1>
+
+  <div  ng-repeat="x in tiles">
+    <a href="{{x.url}}"><div class="tile">
+      <div class="tile-title">
+        <h4 class="panel-title">
+          {{ x.name }}
+        </h4>
+      </div>
+    </div></a>
+  </div>
+
 </section>

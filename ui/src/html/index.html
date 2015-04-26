@@ -16,7 +16,7 @@
   <body ng-app="HackForward" ng-controller="MainController">
 
     <!-- Sidebars -->
-    <div ng-include="'sidebar.html'" 
+    <div ng-include="'sidebar.html'"
             ui-track-as-search-param='true'
             class="sidebar sidebar-left"></div>
 
@@ -26,7 +26,7 @@
 
       <div class="navbar navbar-app navbar-absolute-top">
         <div class="navbar-brand navbar-brand-center" ui-yield-to="title">
-          Hack Forward
+          HackForward
         </div>
         <div class="btn-group pull-left">
           <div ui-toggle="uiSidebarLeft" class="btn sidebar-toggle">
@@ -51,7 +51,7 @@
       <!-- App Body -->
       <div class="app-body">
         <div class="app-content">
-          <ng-view></ng-view>  
+          <ng-view></ng-view>
         </div>
       </div>
 

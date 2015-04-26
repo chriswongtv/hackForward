@@ -1,29 +1,42 @@
 <section class="section container-fluid">
-  <h1 class="page-header">See all pitches here</h1>
+  <h1 class="page-header">All Pitches!</h1>
 
   <div class="panel-group" id="accordion">
 
-    <liclass="list-group-item">
-
-
-      {{ x.name + ', ' + x.desc }}
-
-    </li>
-
     <div  ng-repeat="x in pitches" class="panel panel-default">
+      <a href="" ui-turn-on="pitchDetail">
       <div class="panel-heading">
         <h4 class="panel-title">
           {{ x.name }}
         </h4>
-      </div>
-      <div id="collapseOne" class="panel-collapse collapse in">
         <div class="panel-body">
-          <p> {{ x.desc }} </p>
+          <p>Category: {{ x.cat }} </p>
         </div>
-      </div>
+      </div></a>
     </div>
 
 
+  </div>
+
+  <div ui-content-for="modals">
+    <div class="modal modal-overlay" ui-if='pitchDetail' ui-state='pitchDetail'>
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button class="close"
+                    ui-turn-off="pitchDetail">&times;</button>
+            <h4 class="modal-title"> {{ x.name }} </h4>
+          </div>
+          <div class="modal-body">
+            <p> {{ x.desc }} </p>
+          </div>
+          <div class="modal-footer">
+            <button ui-turn-off="pitchDetail" class="btn btn-primary">Good idea!</button>
+            <button ui-turn-off="pitchDetail" class="btn btn-primary">Contact the pitcher</button>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 
 </section>
